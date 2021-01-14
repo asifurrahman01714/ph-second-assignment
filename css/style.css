@@ -49,3 +49,13 @@ button i {
 input {
     margin-bottom: 10px;
 }
+@media (max-width:768px){
+    .text-center-mid{
+        text-align: center;
+    }
+    .about-us-img{
+        width: 50%;
+        position: relative;
+        left: 25%;
+    }
+}
