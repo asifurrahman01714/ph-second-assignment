@@ -44,25 +44,24 @@ button i {
     border-radius: 10px;
 }
 
-.card-img-top {
-   
-}
-.card-img-div{
+.card-img-div {
     width: 90%;
     margin: auto;
     margin-top: 17px;
     border-radius: 1.5rem;
     background-color: #F1F1F1;
-    
+
 }
-.card-img-div img{
+
+.card-img-div img {
     width: 236px;
     height: 262px;
 }
-.card{
+
+.card {
     border-radius: 1rem;
 }
+
 input {
     margin-bottom: 10px;
 }
-
