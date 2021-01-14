@@ -25,10 +25,13 @@ h1 {
 
 .title span {
     font-family: 'Bebas Neue', cursive;
+    color: #FA804C;
 }
+
 
 .orange {
     color: #FA804C;
+    font-weight: 800;
 }
 
 button i {
